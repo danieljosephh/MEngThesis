@@ -1,0 +1,15 @@
+*.md
+*.aux
+*.bbl
+*.bak
+*.blg
+*.lof
+*.log
+*.lot
+*.out
+thesisHorodniczy.pdf
+*.gz
+*.toc
+*.upa
+*.upb
+*.svn
